@@ -211,13 +211,13 @@ body {
   color: #fff;
 }
 [data-type="iceland"] .content__left {
-  background-image: url("Iceland.png");
+  background-image: src("Iceland.png");
 }
 .spinner--right [data-type="iceland"] .content__left {
   background-image: none;
 }
 [data-type="china"] .content__left {
-  background-image: url("China.png");
+  background-image: src("China.png");
 }
 .spinner--right [data-type="china"] .content__left {
   background-image: none;

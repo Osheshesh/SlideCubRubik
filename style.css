@@ -211,25 +211,25 @@ body {
   color: #fff;
 }
 [data-type="iceland"] .content__left {
-  background-image: url("https://adventures.is/media/141641/iceland-flag.jpg");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Iceland_%281918%E2%80%931944%29.svg/1600px-Flag_of_Iceland_%281918%E2%80%931944%29.svg.png");
 }
 .spinner--right [data-type="iceland"] .content__left {
   background-image: none;
 }
 [data-type="china"] .content__left {
-  background-image: url("https://media.npr.org/assets/img/2024/03/19/gettyimages-1243633610_custom-af64f8c9ff51cc52439ee66114e57bd6ed682b21-s1100-c50.jpg");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_the_Customs_of_the_People%27s_Republic_of_China.svg/1599px-Flag_of_the_Customs_of_the_People%27s_Republic_of_China.svg.png");
 }
 .spinner--right [data-type="china"] .content__left {
   background-image: none;
 }
 [data-type="usa"] .content__left {
-  background-image: url("https://media.npr.org/assets/img/2020/10/09/gettyimages-1055379376_wide-47d8bc19bad91b6b6d9ac5d0df2523e81fbc30c6-s1400-c100.jpg");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/1920px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png");
 }
 .spinner--right [data-type="usa"] .content__left {
   background-image: none;
 }
 [data-type="peru"] .content__left {
-  background-image: url("https://files.ekmcdn.com/0ec9a8/images/peru-5ft-x-3ft-flag-1-1029-p.jpg?w=1000&h=1000&v=6122022-171213");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1920px-Flag_of_Peru.svg.png");
 }
 .spinner--right [data-type="peru"] .content__left {
   background-image: none;

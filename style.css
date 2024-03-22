@@ -217,7 +217,7 @@ body {
   background-image: none;
 }
 [data-type="china"] .content__left {
-  background-image: ("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/2560px-Flag_of_the_People%27s_Republic_of_China.svg.png");
+  background-image: ("China.png");
 }
 .spinner--right [data-type="china"] .content__left {
   background-image: none;

@@ -211,25 +211,25 @@ body {
   color: #fff;
 }
 [data-type="iceland"] .content__left {
-  background-image: src("Iceland.png");
+  background-image: url("https://adventures.is/media/141641/iceland-flag.jpg");
 }
 .spinner--right [data-type="iceland"] .content__left {
   background-image: none;
 }
 [data-type="china"] .content__left {
-  background-image: src("China.png");
+  background-image: url("https://media.npr.org/assets/img/2024/03/19/gettyimages-1243633610_custom-af64f8c9ff51cc52439ee66114e57bd6ed682b21-s1100-c50.jpg");
 }
 .spinner--right [data-type="china"] .content__left {
   background-image: none;
 }
 [data-type="usa"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/usa.jpg");
+  background-image: url("https://media.npr.org/assets/img/2020/10/09/gettyimages-1055379376_wide-47d8bc19bad91b6b6d9ac5d0df2523e81fbc30c6-s1400-c100.jpg");
 }
 .spinner--right [data-type="usa"] .content__left {
   background-image: none;
 }
 [data-type="peru"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/peru.jpg");
+  background-image: url("https://files.ekmcdn.com/0ec9a8/images/peru-5ft-x-3ft-flag-1-1029-p.jpg?w=1000&h=1000&v=6122022-171213");
 }
 .spinner--right [data-type="peru"] .content__left {
   background-image: none;
